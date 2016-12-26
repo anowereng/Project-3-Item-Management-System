@@ -1,0 +1,14 @@
+E:\ASP Storage\Windows_Projecct\ItemManagementSystem\ItemManagementSystem\obj\Debug\ItemManagementSystem.Category.resources
+E:\ASP Storage\Windows_Projecct\ItemManagementSystem\ItemManagementSystem\obj\Debug\ItemManagementSystem.Employee.resources
+E:\ASP Storage\Windows_Projecct\ItemManagementSystem\ItemManagementSystem\obj\Debug\ItemManagementSystem.ItemIndex.resources
+E:\ASP Storage\Windows_Projecct\ItemManagementSystem\ItemManagementSystem\obj\Debug\ItemManagementSystem.Properties.Resources.resources
+E:\ASP Storage\Windows_Projecct\ItemManagementSystem\ItemManagementSystem\obj\Debug\ItemManagementSystem.Requistion.resources
+E:\ASP Storage\Windows_Projecct\ItemManagementSystem\ItemManagementSystem\obj\Debug\ItemManagementSystem.csproj.GenerateResource.Cache
+E:\ASP Storage\Windows_Projecct\ItemManagementSystem\ItemManagementSystem\bin\Debug\ItemManagementSystem.exe.config
+E:\ASP Storage\Windows_Projecct\ItemManagementSystem\ItemManagementSystem\bin\Debug\ItemManagementSystem.exe
+E:\ASP Storage\Windows_Projecct\ItemManagementSystem\ItemManagementSystem\bin\Debug\ItemManagementSystem.pdb
+E:\ASP Storage\Windows_Projecct\ItemManagementSystem\ItemManagementSystem\obj\Debug\ItemManagementSystem.exe
+E:\ASP Storage\Windows_Projecct\ItemManagementSystem\ItemManagementSystem\obj\Debug\ItemManagementSystem.pdb
+E:\ASP Storage\Windows_Projecct\ItemManagementSystem\ItemManagementSystem\obj\Debug\ItemManagementSystem.Supplier.resources
+E:\ASP Storage\Windows_Projecct\ItemManagementSystem\ItemManagementSystem\obj\Debug\ItemManagementSystem.csprojResolveAssemblyReference.cache
+E:\ASP Storage\Windows_Projecct\ItemManagementSystem\ItemManagementSystem\obj\Debug\ItemManagementSystem.TestForm.resources
